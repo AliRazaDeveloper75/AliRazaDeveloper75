@@ -1,4 +1,4 @@
-![logo](https://github.com/Aliraza5004/Aliraza5004/blob/main/Banner.png)
+![logo](https://github.com/AliRazaDeveloper75/AliRazaDeveloper75/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ali Raza.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
