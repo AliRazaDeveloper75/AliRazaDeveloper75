@@ -15,3 +15,5 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AliRazaDeveloper75&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/AliRazaDeveloper75)
+
+![AliRazaDeveloper75 trophies](https://github-profile-trophy.vercel.app/?username=AliRazaDeveloper75&theme=onedark&row=1&column=6&no-bg=true&no-frame=true)
